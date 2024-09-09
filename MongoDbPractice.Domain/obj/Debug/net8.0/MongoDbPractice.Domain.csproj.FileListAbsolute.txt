@@ -1,0 +1,12 @@
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\bin\Debug\net8.0\MongoDbPractice.Domain.deps.json
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\bin\Debug\net8.0\MongoDbPractice.Domain.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\bin\Debug\net8.0\MongoDbPractice.Domain.pdb
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.AssemblyInfo.cs
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\refint\MongoDbPractice.Domain.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\MongoDbPractice.Domain.pdb
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Domain\obj\Debug\net8.0\ref\MongoDbPractice.Domain.dll

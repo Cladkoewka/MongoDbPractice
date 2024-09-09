@@ -1,0 +1,15 @@
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\bin\Debug\net8.0\MongoDbPractice.Persistence.deps.json
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\bin\Debug\net8.0\MongoDbPractice.Persistence.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\bin\Debug\net8.0\MongoDbPractice.Persistence.pdb
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\bin\Debug\net8.0\MongoDbPractice.Domain.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\bin\Debug\net8.0\MongoDbPractice.Domain.pdb
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.AssemblyInfo.cs
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbP.A82B76EB.Up2Date
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\refint\MongoDbPractice.Persistence.dll
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\MongoDbPractice.Persistence.pdb
+C:\ITProjects\.Net\MongoDbPractice\MongoDbPractice.Persistence\obj\Debug\net8.0\ref\MongoDbPractice.Persistence.dll
